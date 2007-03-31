@@ -26,9 +26,19 @@ Bundle::CPANPLUS::Dependencies 0.02
 
 CPANPLUS 0.051
 
+=head1 BUG REPORTS
+
+Please report bugs or other issues to E<lt>bug-bundle-cpanplus@rt.cpan.org<gt>.
+
 =head1 AUTHOR
 
-Jos Boumans <kane@cpan.org>
+This module by Jos Boumans E<lt>kane@cpan.orgE<gt>.
+
+=head1 COPYRIGHT
+
+This library is free software; you may redistribute and/or modify it 
+under the same terms as Perl itself.
+
 
 =cut 
 
